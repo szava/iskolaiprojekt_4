@@ -1,0 +1,3 @@
+Ez a project egy egyszerű iskolai bemutató oldal lesz.
+A cél, hogy megtanuljuk a csapatmunkát és hibakezelést.
+Az első lépés a közös munka gyakorlása.
