@@ -1,0 +1,3 @@
+Ez a projekt egy modern, interaktív weboldal lesz.
+A cél, hogy profi verziókezelési rutint szerezzünk.
+Az első fejlesztési feladat a szövegek módosítása.
