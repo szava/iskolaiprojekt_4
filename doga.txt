@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Ez a projekt egy modern, interaktív weboldal lesz.
 A cél, hogy profi verziókezelési rutint szerezzünk.
 Az első fejlesztési feladat a szövegek módosítása.
+=======
+Ez a project egy egyszerű iskolai bemutató oldal lesz.
+A cél, hogy megtanuljuk a csapatmunkát és hibakezelést.
+Az első lépés a közös munka gyakorlása.
+>>>>>>> a5c37c7e8ae63aeae36da2b5da93883daf73d1a9
